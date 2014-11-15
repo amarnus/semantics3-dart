@@ -1,8 +1,9 @@
 name: semantics3
-version: 0.1.0
+version: 0.1.1
 author: Amarnath Ravikumar <amar@semantics3.com>
 description: Semantics3 API library for Dart.
 homepage: http://github.com/amarnus/semantics3-dart
+documentation: http://semantics3-dart-docs.appspot.com/#semantics3
 dependencies:
   oauth1:
     git: git://github.com/amarnus/dart-oauth1.git
